@@ -1,0 +1,3 @@
+[submodule ".sciagent-skills"]
+	path = .sciagent-skills
+	url = https://github.com/jaechang-hits/SciAgent-Skills.git
