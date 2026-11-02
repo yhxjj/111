@@ -1,0 +1,32 @@
+{
+  "repo_commit": "04d5206707abb4f331eb7b8f017f9364939c7d6b",
+  "submodule_commit": "55c1bd3e863d11bf5a853d24bcdda10c88e6eddf",
+  "explicit_loading": "AGENTS.md -> .sciagent-skills/registry.yaml -> SKILL.md",
+  "skills": [
+    {
+      "name": "statistical-analysis",
+      "path": ".sciagent-skills/skills/biostatistics/statistical-analysis/SKILL.md",
+      "sha256": "163f44563bbc80b817cfe0e2708b7ef58512976f5dbd3df97c07a728df0e7921"
+    },
+    {
+      "name": "statsmodels-statistical-modeling",
+      "path": ".sciagent-skills/skills/biostatistics/statsmodels-statistical-modeling/SKILL.md",
+      "sha256": "225969115aa943679864ce2dfbce029ba465d51836d893eddd6aa31a525466e3"
+    },
+    {
+      "name": "gseapy-gene-enrichment",
+      "path": ".sciagent-skills/skills/genomics-bioinformatics/rnaseq/gseapy-gene-enrichment/SKILL.md",
+      "sha256": "9aff4b04ee447239caa91810cdd3d6dc6f4220c68f327b1ce93d6877a17c1426"
+    },
+    {
+      "name": "kegg-pathway-analysis",
+      "path": ".sciagent-skills/skills/systems-biology-multiomics/kegg-pathway-analysis/SKILL.md",
+      "sha256": "be1ad3dc033d81305c2d629f0f61574f51ae200874923f254c6dcbf45ed44b54"
+    },
+    {
+      "name": "omics-plotting",
+      "path": ".sciagent-skills/skills/data-visualization/omics-plotting/SKILL.md",
+      "sha256": "46cc3b8fce69b7e00f79166a8f3f874eee85e14f5ee96d93d65beebeb38d40c2"
+    }
+  ]
+}
